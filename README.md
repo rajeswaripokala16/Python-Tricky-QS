@@ -1,0 +1,1 @@
+# Python-Tricky-QS
